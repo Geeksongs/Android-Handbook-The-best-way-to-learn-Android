@@ -6,6 +6,8 @@
 
 本开源库本着开源奉献的原则，遵循[Apache License 2.0](https://github.com/Geeksongs/Android-Handbook-The-best-way-to-learn-Android/blob/master/LICENSE)协议
 
+                                        ——于悉尼大学Fisher图书馆
+
 ![image](https://github.com/Geeksongs/Android-Handbook-The-best-way-to-learn-Android/blob/master/cover.jpg)
 
 # 目录：
