@@ -17,5 +17,5 @@
 * 第三章：Java语言基础
 * 第四章：面向对象
 * [第五章：Android studio开发环境搭建](https://github.com/Geeksongs/Android-Handbook-The-best-way-to-learn-Android/tree/master/chapter_5)
-* 第六章：反编译技巧详解
+* [第六章：反编译技巧详解](https://github.com/Geeksongs/Android-Handbook-The-best-way-to-learn-Android/tree/master/chapter_6)
 *
